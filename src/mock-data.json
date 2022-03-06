@@ -1,0 +1,12 @@
+[
+    { "name": "Arthi", "age": 6, "grade": 2, "phone": 9884266713, "id": 1 },
+    { "name": "Anitha", "age": 7, "grade": 3, "phone": 9656123230, "id": 2 },
+    { "name": "Binu", "age": 8, "grade": 4, "phone": 9576655188, "id": 3 },
+    { "name": "Hamsy", "age": 7, "grade": 3, "phone": 8909890027, "id": 4 },
+    { "name": "Irishya", "age": 9, "grade": 5, "phone": 8787897047, "id": 5 },
+    { "name": "Rishi", "age": 11, "grade": 5, "phone": 9567678657, "id": 6 },
+    { "name": "Rithanya", "age": 13, "grade": 8, "phone": 9456243526, "id": 7 },
+    { "name": "Karthic", "age": 5, "grade": 1, "phone": 8898908334, "id": 8 },
+    { "name": "Sashi", "age": 14, "grade": 9, "phone": 8756756789, "id": 9 },
+    { "name": "Teena", "age": 7, "grade": 4, "phone": 8978979047, "id": 10 }
+  ]
